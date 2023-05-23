@@ -7,8 +7,8 @@ Crimson Love is a Visual Novel telling a story about the life of Alex, a young g
 ## Development Team
 Creator: [Alessa Marie Scottson](https://github.com/alessasystem)
 
-Lead Developer: [Jayde Abigail Scottson](https://github.com/jaydeslibrary)
+Lead Developer: [Ruby Jameson](https://github.com/RubyJameson)
 
-Developers: [Ayin Vrinsky](https://github.com/umikodev) & [Isla-Mae Moreno](https://github.com/isla-mae-moreno)
+Developers: [Ayin Vrinsky](https://github.com/umikodev), [Isla-Mae Moreno](https://github.com/isla-mae-moreno), [Andrew Monroe](https://github.com/AndrewwDev), [Ruby Jameson](https://github.com/RubyJameson), Jayde Abigail Scottson (Former, account deleted), [Alessa Marie Scottson](https://github.com/alessasystem) (Former)
 ## Commemoration
 This video game was originally started by Alessa Marie Scottson, whom unfortunately passed away while making it. It is our goal to finish what she'd started and commemorate her legacy.
