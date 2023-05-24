@@ -9,6 +9,6 @@ Creator: [Alessa Marie Scottson](https://github.com/alessasystem)
 
 Lead Developer: [Ruby Jameson](https://github.com/RubyJameson)
 
-Developers: [Ayin Vrinsky](https://github.com/umikodev), [Isla-Mae Moreno](https://github.com/isla-mae-moreno), [Andrew Monroe](https://github.com/AndrewwDev), [Ruby Jameson](https://github.com/RubyJameson), Jayde Abigail Scottson (Former, account deleted), [Alessa Marie Scottson](https://github.com/alessasystem) (Former)
+Developers: [Ayin Vrinsky (Ayin)](https://github.com/umikodev), [Isla-Mae Moreno (Isla-Mae/Isla)](https://github.com/isla-mae-moreno), [Andrew Monroe (Andrew)](https://github.com/AndrewwDev), [Ruby Jameson (Rubi/Ruby)](https://github.com/RubyJameson), [Jayde Abigail Scottson (Mila)](https://github.com/ReyMila), [Alessa Marie Scottson](https://github.com/alessasystem) (Former)
 ## Commemoration
 This video game was originally started by Alessa Marie Scottson, whom unfortunately passed away while making it. It is our goal to finish what she'd started and commemorate her legacy.
