@@ -1,0 +1,10 @@
+### MUSIC ###
+define audio.chapter1_theme = "audio/chapter1_theme.mp3"
+define audio.stage_theme = "audio/stage_theme.mp3"
+define audio.artificial_interspace_theme = "audio/artificial_interspace_theme.mp3"
+define audio.mora_theme = "audio/mora_theme.mp3"
+define audio.love_theme = "audio/love_theme.mp3"
+define audio.arbiter_office_theme = "audio/arbiter_office_theme.mp3"
+define audio.hareka_theme = "audio/hareka_theme.mp3"
+define audio.interface_theme = "audio/interface_theme.mp3"
+define audio.revenge_theme = "audio/revenge_theme.mp3"
