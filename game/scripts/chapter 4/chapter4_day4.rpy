@@ -224,10 +224,11 @@ label chapter4_day4:
         scene black
         with fade
         centered "End of day."
-        menu chapter4_day4_route2_end:
-            "Day 18 (Chapter 4 - Day 4) complete!"
-            "Would you like to return to the chapter selection screen, or carry onto the next day?"
-            "Chapter selection.":
-                jump chapter_select
-            "Carry on.":
-                jump chapter4_day5_route2
+        jump chapter4_day4_route1_end
+        #menu chapter4_day4_route2_end:
+            #"Day 18 (Chapter 4 - Day 4) complete!"
+            #"Would you like to return to the chapter selection screen, or carry onto the next day?"
+            #"Chapter selection.":
+                #jump chapter_select
+            #"Carry on.":
+                #jump chapter4_day5_route2

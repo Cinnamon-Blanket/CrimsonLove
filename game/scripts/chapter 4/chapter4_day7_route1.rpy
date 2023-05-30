@@ -58,25 +58,55 @@ label chapter4_day7_route1:
     "We arrive at the park."
     "We walk around for a while, chatting about anything, and enjoying the beautiful scenery."
     "Eventually, we stop and sit down on a bench."
-    show hareka arbiter alt hair_down smile
     harekai "The weather is so nice."
     my "Yeah... I would never have expected this from January."
     "She looks at me and smiles."
+    show hareka arbiter alt hair_down smile
     harekai "I'm so glad to be here with you, Alex."
     my "Oh-"
     "That caught me off guard."
-    my "Really..."
+    my "Really...?"
     harekai "Of course."
     "I smile back."
     my "I'm glad to be here with you too, Hareka."
     "So we sit, soaking up the abnormally warm sunlight for a while."
+    show hareka arbiter alt hair_down eyes_closed smile
+    with fade
     "{b}{u}A while later...{/u}{/b}"
     "She stands up, grabbing the picnic basket, and we set up on the bench."
     "The grass is too damp to sit on, unfortunately."
     "She unloads the food."
     my "Mm, this looks delicious! Did you make it all yourself?"
+    show hareka arbiter alt hair_down smile
     harekai "Yep!"
     my "Wow..."
     harekai "I have much more motivation to cook now that I can taste the things I'm cooking!"
     my "Haha, good."
-    "We eat the food."
+    "We eat the food, while chatting about lots of different topics."
+    "It's relaxing. I'm enjoying myself, and it seems like she is, too."
+    "Eventually, we finish the food, and we tidy everything away, placing the basket on the ground."
+    "She looks up to the sky, inhaling deeply."
+    show hareka arbiter alt hair_down smile
+    harekai "This is so beautiful."
+    my "Yeah, it is..."
+    scene black
+    with fade
+    "I close my eyes too."
+    "We sit here for a moment of bliss."
+    "No distractions, no worries."
+    "Just the two of us."
+    "Just..."
+    harekai "I want to stay like this forever."
+    my "Hm?"
+    scene bg park
+    show hareka arbiter alt hair_down eyes_closed smile
+    with fade
+    "I open my eyes."
+    "She giggles."
+    show hareka arbiter alt hair_down smile
+    harekai "I'd love to stay with you forever and ever~!"
+    my "Oh..."
+    my "I'd like to stay with you, too."
+    "We both laugh."
+    harekai "Thank you."
+    my "You're welcome."
