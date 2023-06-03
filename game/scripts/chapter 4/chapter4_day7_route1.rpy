@@ -6,6 +6,7 @@ label chapter4_day7_route1:
 
     scene bg bedroom day
     with fade
+    play music hareka_theme fadein 1.0 fadeout 1.0 loop
     show hareka arbiter alt messy eyes_closed normal
     my "Hey... Wake up."
     harekai "Mm..."
@@ -110,3 +111,56 @@ label chapter4_day7_route1:
     "We both laugh."
     harekai "Thank you."
     my "You're welcome."
+    "So we sit, enjoying this moment, completely isolated from the busy City for a while."
+    "{b}{u}A while later...{/u}{/b}"
+    "Eventually, we stand up."
+    my "Ready to head back now? It's beginning to get cold."
+    harekai "Ah, yeah, good idea."
+    "We pack up our things and head home."
+
+    scene bg bedroom day
+    play music hareka_theme fadein 1.0 fadeout 0.5 loop
+    show hareka arbiter alt hair_down smile
+    with fade
+    "We arrive home. Hareka puts the picnic stuff back where it belongs, we wash the pots together, then head to the bedroom."
+    my "Did you enjoy that?"
+    harekai "Yeah, I really did!"
+    my "Good!"
+    "We both smile at each other."
+    "Genuine smiles of pure happiness."
+    my "Back to normal tomorrow, though..."
+    show hareka arbiter alt hair_down eyes_closed smile
+    harekai "Yeah..."
+    harekai "I feel reinvigorated, though."
+    my "Oh?"
+    harekai "Like I can take on anything life throws at me this coming week."
+    my "Aw, that's lovely. I'm glad you feel that way."
+    my "I do too, kinda..."
+    show hareka arbiter alt hair_down smile
+    harekai "We can make it!"
+    my "Yeah!"
+    scene bg bedroom evening
+    show hareka arbiter alt hair_down eyes_closed smile
+    with fade
+    "We went back to doing our own thing, winding down for a while. Eventually, evening arrives."
+    my "Well, the day is ending, huh."
+    "Hareka sighs happily."
+    harekai "I'm so happy..."
+    my "I'm glad."
+    show hareka arbiter alt hair_down smile
+    harekai "Let's get to bed. We need to save energy for tomorrow."
+    my "Yeah, good idea."
+    "We get ready for bed."
+    my "Goodnight, Hareka."
+    harekai "Goodnight!"
+    window hide
+    play music chapter1_theme fadein 0.5 fadeout 0.5 loop
+    $ chapter5_avail = True
+    scene black
+    with fade
+    centered "End of day."
+    menu chapter4_day7_route1_end:
+        "Day 21 (Chapter 4 - Day 7) complete!"
+        "{b}Carry on option is not available due to Chapter Completion.{/b}"
+        "Chapter selection.":
+            jump chapter_select

@@ -33,7 +33,7 @@ define gui.about = _p("""Crimson Love is a Visual Novel telling a story about th
 
 {u}CREDITS{/u}
 
-Credits can be viewed {a=https://github.com/Ring-Dev/crimsonlove/tree/main#credits}here.{/a}
+Credits can be viewed {a=https://github.com/Cinnamon-Blanket/CrimsonLove#credits}here.{/a}
 
 ---
 
@@ -128,7 +128,7 @@ define config.window_hide_transition = Dissolve(.2)
 ## Controls the default text speed. The default, 0, is infinite, while any other
 ## number is the number of characters per second to type out.
 
-default preferences.text_cps = 20
+default preferences.text_cps = 30
 
 
 ## The default auto-forward delay. Larger numbers lead to longer waits, with 0

@@ -6,7 +6,7 @@ label start:
 label chapter_select:
     menu chapter_page_select:
         "Please choose a page."
-        "Page 1 (Chapters 1-4)":
+        "Page 1 (Chapters 1-5)":
             jump page1_select
     menu page1_select:
         "Please choose a chapter."
@@ -18,8 +18,10 @@ label chapter_select:
             jump chapter3_select
         "Chapter 4 (Part 2, Hareka)" if chapter4_avail:
             jump chapter4_select
+        "Chapter 5 (Part 3, Hareka)" if chapter5_avail:
+            jump chapter5_select
     menu chapter1_select (screen="gridchoice", cols=1, rows=5):
-        "Chapter 1\nPlease choose a day."
+        "{b}Chapter 1{/b}\nPlease choose a day."
         "Day 1.":
             jump chapter1_day1
         "Day 2." if chapter1_day2_avail:
@@ -31,7 +33,7 @@ label chapter_select:
         "Day 5." if chapter1_day5_avail:
             jump chapter1_day5
     menu chapter2_select (screen="gridchoice", cols=1, rows=3):
-        "Chapter 2\nPlease choose a day."
+        "{b}Chapter 2{/b}\nPlease choose a day."
         "Day 1.":
             jump chapter2_day1
         "Day 2." if chapter2_day2_avail:
@@ -39,7 +41,7 @@ label chapter_select:
         "Day 3." if chapter2_day3_avail:
             jump chapter2_day3
     menu chapter3_select (screen="gridchoice", cols=3, rows=6):
-        "Chapter 3\nPlease choose a day."
+        "{b}Chapter 3{/b}\nPlease choose a day."
         "Day 1.":
             jump chapter3_day1
         "Day 2." if chapter3_day2_avail:
@@ -68,8 +70,8 @@ label chapter_select:
             jump chapter3_day13
         "Day 14." if chapter3_day14_avail:
             jump chapter3_day14
-    menu chapter4_select (screen="gridchoice", cols=2, rows=6):
-        "Chapter 4\nPlease choose a day."
+    menu chapter4_select (screen="gridchoice", cols=2, rows=7):
+        "{b}Chapter 4{/b}\nPlease choose a day."
         "Day 1.":
             jump chapter4_day1
         "Day 2." if chapter4_day2_avail:
@@ -90,3 +92,7 @@ label chapter_select:
             jump chapter4_day7_route1
         #"Day 7." if chapter4_day7_route2_avail:
             #jump chapter4_day7_route2
+    menu chapter5_select (screen="gridchoice", cols=1, rows=1):
+        "{b}Chapter 5{/b}\nPlease choose a day."
+        "Day 1.":
+            jump chapter5_day1

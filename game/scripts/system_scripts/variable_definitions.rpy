@@ -35,6 +35,7 @@ default chapter4_day7_route2_avail = False
 default chapter2_avail = False
 default chapter3_avail = False
 default chapter4_avail = False
+default chapter5_avail = False
 default mora_death = False
 default mora_almost_kill = False
 default mora_push = False
