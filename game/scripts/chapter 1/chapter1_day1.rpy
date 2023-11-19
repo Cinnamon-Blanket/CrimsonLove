@@ -219,7 +219,7 @@ label chapter1_day1:
     show zena idol eyes_closed normal
     "The girls all dance pretty well, and their singing is beautiful."
     "Their voices mix together perfectly."
-    "Furthermore, the audience is completely immensed, having the time of their lives."
+    "Furthermore, the audience is completely immersed, having the time of their lives."
     "I even find myself enjoying it!"
     "I never really was a fan of idols before but these girls..."
     "Something changed inside me tonight."
