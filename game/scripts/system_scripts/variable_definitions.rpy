@@ -53,3 +53,4 @@ default chapter4_day4_menu1_answer1 = False
 default chapter4_day4_menu1_answer2 = False
 default chapter4_day5_route1_menu3_answer1 = False
 default chapter4_day5_route1_menu3_answer2 = False
+default developer = False
